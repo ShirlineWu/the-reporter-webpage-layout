@@ -1,0 +1,206 @@
+
+a{color:#404040;
+  text-decoration: none;
+  font-weight: bolder
+}
+
+.boxflex1-1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color:rgba(241, 241, 241, 0.8);
+}
+.boxflex1-2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color:rgba(241, 241, 241, 0.8);
+}
+.boxflex2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    align-items: center
+}
+.item2{
+    margin: 10px;
+    text-align: center;
+}
+.boxflex3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    align-items: center
+}
+.item3-1-1{ 
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    background-color:rgba(241, 241, 241, 0.8);
+    border: 2px solid rgb(196, 13, 35);
+    color: rgb(196, 13, 35);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px;
+}
+.item3-1-2{ 
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    background-color:rgb(196, 13, 35);
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius:20px;
+}
+.item3-2{ 
+    margin: 15px;
+    text-align: center;
+}
+.boxflex4{
+    display: inline-flex;
+    border-top:1px solid #404040;
+    border-bottom: 1px solid #404040;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
+.item4{
+    margin: 15px;
+    text-align: center;
+}
+.boxflex5{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
+.item5{
+    margin: 15px;
+    text-align: center;
+    color:#404040;
+    text-decoration: none;
+    font-weight: bolder
+    
+}
+.item5-1{
+    font-size: 12px;
+    color:rgb(196, 13, 35);
+    text-align: left;
+    font-weight: bolder;
+}
+.item5-2{
+    width: 150px;
+    font-size: 12px;
+    color:black;
+    text-align: left;
+    font-weight: bolder;
+    line-break: anywhere;
+}
+.boxflex6{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+}
+.boxflex7{
+    display: flex;
+    flex-direction: column;
+    background-color:white;
+    margin: 20px;
+}
+.item7{
+    margin: auto;
+    padding: 4px;
+    text-align: center;
+    width: 500px;
+    line-break: anywhere;
+}
+.boxflex8{
+    display: flex;
+    flex-direction: column;
+    background-color:white;
+    margin: 50px;
+    width: 200px;
+    line-break: anywhere;
+}
+.item8{
+    text-align: center;
+    padding: 4px;
+}
+.boxflex9{
+    display: flex;
+    flex-direction:column;
+    background-color:rgba(241, 241, 241, 0.8);
+}
+.boxflex10{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+    width: 550px;
+    line-break: anywhere;
+}
+.item10{
+    margin: auto;
+    text-align: center;
+    padding: 4px;
+}
+.boxflex11{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 10px;
+    line-break: anywhere;
+}
+.item11{
+    width: 350px;
+    margin: 10px;
+    text-align: justify;
+    line-break: anywhere;
+}
+.boxflex12{
+    display: flex;
+    margin: auto;
+    padding: 50px;
+    font-size:12px;
+}
+.boxflex13{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+}
+.boxflex14{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    margin:auto;
+}
+.item14{
+    color: aliceblue;
+    text-align: justify;
+    padding: 10px;
+    margin-left:180px ;
+}
+.boxflex15{
+    display: flex;
+    width: 120px;
+    padding: 100px;
+    margin-right:100px ;
+}
+.item15{
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px; 
+    border-bottom-right-radius: 20px;
+    background-color:rgb(196, 13, 35);
+}
